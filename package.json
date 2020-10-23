@@ -10,7 +10,8 @@
     "build": "vue-cli-service build",
     "test:e2e": "vue-cli-service test:e2e",
     "postinstall": "npm run build",
-    "start": "node server.js"
+    "start": "node server.js",
+    "begin": "yarn serve"
   },
   "repository": {
     "type": "git",
